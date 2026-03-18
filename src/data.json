@@ -1,0 +1,310 @@
+[
+  {
+    "id": 0,
+    "term": "embodied knowledge",
+    "x": 16.06220817565918,
+    "y": 89.24352264404297,
+    "category": "embodied"
+  },
+  {
+    "id": 1,
+    "term": "tacit knowledge",
+    "x": 22.11606788635254,
+    "y": 95.16246032714844,
+    "category": "embodied"
+  },
+  {
+    "id": 2,
+    "term": "phenomenology",
+    "x": 6.060703277587891,
+    "y": 72.75648498535156,
+    "category": "embodied"
+  },
+  {
+    "id": 3,
+    "term": "Maurice Merleau-Ponty",
+    "x": 0.0,
+    "y": 75.78431701660156,
+    "category": "embodied"
+  },
+  {
+    "id": 4,
+    "term": "kinesthetic sense",
+    "x": 22.51194953918457,
+    "y": 63.7186164855957,
+    "category": "embodied"
+  },
+  {
+    "id": 5,
+    "term": "proprioception",
+    "x": 27.977285385131836,
+    "y": 65.780517578125,
+    "category": "embodied"
+  },
+  {
+    "id": 6,
+    "term": "haptic feedback",
+    "x": 35.9521598815918,
+    "y": 48.6335334777832,
+    "category": "embodied"
+  },
+  {
+    "id": 7,
+    "term": "situated cognition",
+    "x": 20.8204288482666,
+    "y": 83.76520538330078,
+    "category": "embodied"
+  },
+  {
+    "id": 8,
+    "term": "sensory experience",
+    "x": 14.96744155883789,
+    "y": 67.19840240478516,
+    "category": "embodied"
+  },
+  {
+    "id": 9,
+    "term": "muscle memory",
+    "x": 20.635236740112305,
+    "y": 48.564693450927734,
+    "category": "embodied"
+  },
+  {
+    "id": 10,
+    "term": "physical intuition",
+    "x": 34.62078094482422,
+    "y": 78.03121185302734,
+    "category": "embodied"
+  },
+  {
+    "id": 11,
+    "term": "the lived body",
+    "x": 8.726176261901855,
+    "y": 90.0232162475586,
+    "category": "embodied"
+  },
+  {
+    "id": 12,
+    "term": "artificial intelligence",
+    "x": 61.425559997558594,
+    "y": 42.38410186767578,
+    "category": "ai"
+  },
+  {
+    "id": 13,
+    "term": "machine learning",
+    "x": 57.55784606933594,
+    "y": 31.816608428955078,
+    "category": "ai"
+  },
+  {
+    "id": 14,
+    "term": "neural networks",
+    "x": 49.99055862426758,
+    "y": 29.95469856262207,
+    "category": "ai"
+  },
+  {
+    "id": 15,
+    "term": "large language models",
+    "x": 56.42864227294922,
+    "y": 20.297910690307617,
+    "category": "ai"
+  },
+  {
+    "id": 16,
+    "term": "symbolic AI",
+    "x": 67.95602416992188,
+    "y": 43.75851058959961,
+    "category": "ai"
+  },
+  {
+    "id": 17,
+    "term": "computation",
+    "x": 95.05828857421875,
+    "y": 64.61334991455078,
+    "category": "ai"
+  },
+  {
+    "id": 18,
+    "term": "algorithm",
+    "x": 82.98834991455078,
+    "y": 53.461360931396484,
+    "category": "ai"
+  },
+  {
+    "id": 19,
+    "term": "data processing",
+    "x": 97.7978286743164,
+    "y": 56.439788818359375,
+    "category": "ai"
+  },
+  {
+    "id": 20,
+    "term": "silicon chips",
+    "x": 70.25640869140625,
+    "y": 0.0,
+    "category": "ai"
+  },
+  {
+    "id": 21,
+    "term": "digital abstraction",
+    "x": 97.80773162841797,
+    "y": 10.514786720275879,
+    "category": "ai"
+  },
+  {
+    "id": 22,
+    "term": "mathematical logic",
+    "x": 96.56129455566406,
+    "y": 74.9529037475586,
+    "category": "ai"
+  },
+  {
+    "id": 23,
+    "term": "formal systems",
+    "x": 89.86063385009766,
+    "y": 81.49465942382812,
+    "category": "ai"
+  },
+  {
+    "id": 24,
+    "term": "optimization",
+    "x": 85.33196258544922,
+    "y": 61.757808685302734,
+    "category": "ai"
+  },
+  {
+    "id": 25,
+    "term": "robotics",
+    "x": 73.59944152832031,
+    "y": 16.55605697631836,
+    "category": "bridge"
+  },
+  {
+    "id": 26,
+    "term": "soft robotics",
+    "x": 70.94277954101562,
+    "y": 10.833235740661621,
+    "category": "bridge"
+  },
+  {
+    "id": 27,
+    "term": "bio-inspired AI",
+    "x": 66.3714370727539,
+    "y": 35.75556182861328,
+    "category": "bridge"
+  },
+  {
+    "id": 28,
+    "term": "human-computer interaction",
+    "x": 44.0316047668457,
+    "y": 52.3293571472168,
+    "category": "bridge"
+  },
+  {
+    "id": 29,
+    "term": "affective computing",
+    "x": 49.828697204589844,
+    "y": 51.50289535522461,
+    "category": "bridge"
+  },
+  {
+    "id": 30,
+    "term": "intelligence",
+    "x": 62.79607391357422,
+    "y": 64.5136489868164,
+    "category": "bridge"
+  },
+  {
+    "id": 31,
+    "term": "consciousness",
+    "x": 41.36845779418945,
+    "y": 98.60882568359375,
+    "category": "bridge"
+  },
+  {
+    "id": 32,
+    "term": "agency",
+    "x": 72.7117691040039,
+    "y": 63.28718185424805,
+    "category": "bridge"
+  },
+  {
+    "id": 33,
+    "term": "creativity",
+    "x": 50.89732360839844,
+    "y": 100.0,
+    "category": "bridge"
+  },
+  {
+    "id": 34,
+    "term": "intuition",
+    "x": 39.53795623779297,
+    "y": 80.2230453491211,
+    "category": "bridge"
+  },
+  {
+    "id": 35,
+    "term": "skill acquisition",
+    "x": 62.33283996582031,
+    "y": 81.7781982421875,
+    "category": "bridge"
+  },
+  {
+    "id": 36,
+    "term": "craftsmanship",
+    "x": 60.885013580322266,
+    "y": 93.32434844970703,
+    "category": "bridge"
+  },
+  {
+    "id": 37,
+    "term": "artistry",
+    "x": 57.59467315673828,
+    "y": 99.1180419921875,
+    "category": "bridge"
+  },
+  {
+    "id": 38,
+    "term": "digital twin",
+    "x": 92.76775360107422,
+    "y": 8.574289321899414,
+    "category": "bridge"
+  },
+  {
+    "id": 39,
+    "term": "simulation",
+    "x": 84.96517944335938,
+    "y": 45.27293014526367,
+    "category": "bridge"
+  },
+  {
+    "id": 40,
+    "term": "virtual reality",
+    "x": 94.75414276123047,
+    "y": 28.858745574951172,
+    "category": "bridge"
+  },
+  {
+    "id": 41,
+    "term": "augmented reality",
+    "x": 100.0,
+    "y": 28.474205017089844,
+    "category": "bridge"
+  },
+  {
+    "id": 42,
+    "term": "cybernetics",
+    "x": 75.7583236694336,
+    "y": 25.239652633666992,
+    "category": "bridge"
+  },
+  {
+    "id": 43,
+    "term": "feedback loops",
+    "x": 38.455902099609375,
+    "y": 35.38479995727539,
+    "category": "bridge"
+  }
+]
